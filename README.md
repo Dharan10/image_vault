@@ -41,8 +41,8 @@ pip install pycryptodome
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/Dharan10/image_vault.git
+cd image_vault
 ```
 
 ### 2. Run the Script
@@ -76,7 +76,6 @@ You will be prompted to select an operation:
 
 ## Example
 
-[Vedio](/poc.mp4)
 
 ### Encryption
 
