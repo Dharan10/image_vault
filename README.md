@@ -1,4 +1,4 @@
-# Image
+# Image Vault
 This project is a Python-based tool for encrypting and decrypting image files using AES (Advanced Encryption Standard). It supports AES encryption in CBC mode and includes features for key management, encryption, and decryption. The tool is interactive and stores encryption keys securely in a log file.
 
 ## Features
